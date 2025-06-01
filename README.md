@@ -1,10 +1,10 @@
-# 🏦 Loan Status Prediction using Machine Learning
+# Loan Status Prediction using Machine Learning
 
 This project uses a machine learning model to predict whether a loan application will be approved or not based on various applicant features. The model is trained using the Loan Prediction dataset and employs a **Support Vector Machine (SVM)** classifier for binary classification.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source**: [Loan Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 - **Features**: Applicant income, credit history, loan amount, dependents, education, etc.
@@ -12,7 +12,7 @@ This project uses a machine learning model to predict whether a loan application
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas & NumPy  
@@ -22,7 +22,7 @@ This project uses a machine learning model to predict whether a loan application
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 1. Import necessary libraries and load the dataset  
 2. Perform exploratory data analysis (EDA)  
@@ -34,7 +34,7 @@ This project uses a machine learning model to predict whether a loan application
 
 ---
 
-## ✅ Results
+## Results
 
 - **Model**: Support Vector Machine (SVM)  
 - **Accuracy**: Varies depending on train-test split (~80–85%)  
@@ -42,7 +42,7 @@ This project uses a machine learning model to predict whether a loan application
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository or download the notebook.  
 2. Make sure required libraries are installed:
@@ -50,7 +50,7 @@ This project uses a machine learning model to predict whether a loan application
 
 ---
 
-# 💡 Future Improvements
+## Future Improvements
 
 - Try alternative classifiers like Random Forest or XGBoost
 - Add feature scaling and cross-validation
@@ -58,7 +58,7 @@ This project uses a machine learning model to predict whether a loan application
 
 ---
 
-# 🙏 Acknowledgments
+## Acknowledgments
 
 - Kaggle Dataset: Loan Prediction
 - scikit-learn and open-source Python libraries
